@@ -5,3 +5,4 @@ Git tracks change of files.
 create a new branch 'dev'
 create a new branch 'featurel' is so quickly & simple.
 add merge
+git stash test

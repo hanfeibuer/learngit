@@ -6,3 +6,4 @@ create a new branch 'dev'
 create a new branch 'featurel' is so quickly & simple.
 add merge
 git stash test
+assume others has done changes on branch 'dev'
